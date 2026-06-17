@@ -12,7 +12,7 @@
     align-items: start;
     padding: 3rem 6rem;
     width: 100%;
-    border: 2px solid gray;
+    /* border: 2px solid gray; */
 
     gap: 5rem;
 }
